@@ -7,13 +7,6 @@
       "sha256": "d9327a1f2aa33660ffdffb96a5f1c4c0a280bbec4af4335318735e56fdc5771b",
       "groesseMB": 47
     },
-    "Song of Resurrection Hexagon x256": {
-      "version": "2026-11-01",
-      "seite": "https://www.curseforge.com/minecraft/texture-packs/song-of-resurrection-project-textures",
-      "download": "https://github.com/2cf94h8pwt-oss/SOR-Manager/releases/download/v1/Song_of_Resurrection_Hexagon_x256.zip",
-      "sha256": "05429545a664196918835c8f866f6069e8d1eb38f095036fdbb081cb2d74f7d6",
-      "groesseMB": 214
-    },
     "Curvature&Smooth": {
       "version": "2026-11-01",
       "seite": "https://www.curseforge.com/minecraft/texture-packs/song-of-resurrection-project-textures",
@@ -21,21 +14,21 @@
       "sha256": "9d7ab14e40f36a1062fde4a46049eb177ae418260b6db218a5929ace81276a91",
       "groesseMB": 960
     },
-    "Hexagon_x128": {
+    "Hexagon v2 x128": {
       "version": "2026-11-07",
       "seite": "https://www.curseforge.com/minecraft/texture-packs/song-of-resurrection-project-textures",
       "download": "https://github.com/2cf94h8pwt-oss/SOR-Manager/releases/download/v1/Hexagon_x128.zip",
       "sha256": "aeb3f2322df3a7e2c7cde1ef3689e6572afd8eba7f030517dc2c0392e9117c9a",
       "groesseMB": 425
     },
-    "Hexagon_Lite_x128": {
+    "Hexagon Lite x128": {
       "version": "2026-11-07",
       "seite": "https://www.curseforge.com/minecraft/texture-packs/song-of-resurrection-project-textures",
       "download": "https://github.com/2cf94h8pwt-oss/SOR-Manager/releases/download/v1/Hexagon_Lite_x128.zip",
       "sha256": "7d767f8ae7f6e0389187f4ff70522875734301604d7d82b5a2e6d420d6f1ec55",
       "groesseMB": 363
     },
-    "Hexagon_Extrem_x128": {
+    "Hexagon Extrem x128": {
       "version": "2026-11-07",
       "seite": "https://www.curseforge.com/minecraft/texture-packs/song-of-resurrection-project-textures",
       "download": "https://github.com/2cf94h8pwt-oss/SOR-Manager/releases/download/v1/Hexagon_Extrem_x128.zip",
